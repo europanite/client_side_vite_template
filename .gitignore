@@ -57,5 +57,4 @@ frontend/app/.jest-cache/
 # mat
 mat/
 
-
-client_side_*
+frontend_vite_template_*

@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/client_side_vite_template/",
+  base: "/frontend_vite_template/",
   assetsInclude: ["**/*.wasm"], 
   build: {
     outDir: "dist",

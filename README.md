@@ -1,11 +1,11 @@
-# [Client Side Vite Template](https://github.com/europanite/client_side_vite_template "Client Side Vite Template")
+# [Frontend Vite Template](https://github.com/europanite/frontend_vite_template "Frontend Vite Template")
 
 A Client Side Vite Template.
 
 ---
 
 ##  🚀 PlayGround
- [Client Side Vite Template](https://europanite.github.io/client_side_vite_template/)
+ [Frontend Vite Template](https://europanite.github.io/frontend_vite_template/)
 
 ---
 
