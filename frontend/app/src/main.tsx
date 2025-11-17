@@ -3,13 +3,15 @@ import ReactDOM from "react-dom/client";
 import "./style.css";
 import App from "./App";
 
-let rootEl = document.getElementById("app");
-if (!rootEl) {
-  rootEl = document.createElement("div");
-  rootEl.id = "app";
-  document.body.appendChild(rootEl);
+let rootElement = document.getElementById("app");
+if (!rootElement) {
+  rootElement = document.createElement("div");
+  rootElement.id = "app";
+  document.body.appendChild(rootElement);
 }
 
-ReactDOM.createRoot(rootEl).render(
-  React.createElement(React.StrictMode, null, React.createElement(App))
+ReactDOM.createRoot(rootElement).render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
 );

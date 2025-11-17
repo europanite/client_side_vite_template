@@ -1,9 +1,18 @@
-import React, { useState } from "react";
-d
+import React, {
+  useEffect,
+  useRef,
+  useState,
+  ChangeEvent,
+  FC,
+} from "react";
 
-export default function App() {
+const App: FC = () => {
 
   return (
+    <div className="app-root">
 
+    </div>
   );
-}
+};
+
+export default App;
