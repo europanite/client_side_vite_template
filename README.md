@@ -1,0 +1,2 @@
+# client_side_vite_template
+client_side_vite_template
