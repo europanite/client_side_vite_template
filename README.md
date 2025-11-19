@@ -1,11 +1,10 @@
 # [Frontend Vite Template](https://github.com/europanite/frontend_vite_template "Frontend Vite Template")
 
+[![pages](https://github.com/europanite/frontend_vite_template/actions/workflows/pages.yml/badge.svg)](https://github.com/europanite/frontend_vite_template/actions/workflows/pages.yml)
+
+ [PlayGround](https://europanite.github.io/frontend_vite_template/)
+
 A Client Side Vite Template.
-
----
-
-##  🚀 PlayGround
- [Frontend Vite Template](https://europanite.github.io/frontend_vite_template/)
 
 ---
 
