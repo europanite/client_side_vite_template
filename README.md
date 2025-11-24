@@ -1,5 +1,7 @@
 # [Frontend Vite Template](https://github.com/europanite/frontend_vite_template "Frontend Vite Template")
 
+[![CI](https://github.com/europanite/frontend_vite_template/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/frontend_vite_template/actions/workflows/ci.yml)
+[![docker](https://github.com/europanite/frontend_vite_template/actions/workflows/docker.yml/badge.svg)](https://github.com/europanite/frontend_vite_template/actions/workflows/docker.yml)
 [![pages](https://github.com/europanite/frontend_vite_template/actions/workflows/pages.yml/badge.svg)](https://github.com/europanite/frontend_vite_template/actions/workflows/pages.yml)
 
  [PlayGround](https://europanite.github.io/frontend_vite_template/)
